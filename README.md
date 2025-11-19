@@ -9,3 +9,4 @@ encouraged to consider basic strategies for winning simple or general games (e.g
 Optimal play is not required.
 The following is a sample GUI layout. You must use a class hierarchy to deal with the computer opponent
 requirements. If your current code has not yet considered class hierarchy, it is time to refactor your code
+![Uploading image.png…]()
